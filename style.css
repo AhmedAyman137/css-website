@@ -66,6 +66,8 @@ body {
 }
 
 .section11 {
+    background-color: #1f2937;
+    color: #f9faf8;
     display: flex;
     justify-content: center;
     padding: 2rem 15rem;
@@ -146,7 +148,7 @@ body {
     font-size: 36px;
 }
 
-.section3 span {
+.section3 cite {
     font-weight: 600;
     background-color: #e5e7eb;
     float: right;
