@@ -1,2 +1,2 @@
 # css-website
-https://github.com/AhmedAyman137/css-website.git
+https://ahmedayman137.github.io/css-website/
